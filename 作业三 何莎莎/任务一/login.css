@@ -1,0 +1,97 @@
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+    }
+
+    body {
+        line-height: 1;
+    }
+
+    table {
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+
+    body {
+        font-family: "微软雅黑"；
+    }
+
+    #kuang {
+        width: 500px;
+        height: 400px;
+        border: 3px solid #FB3F1B;
+        margin-left: 35%;
+        margin-top: 10%;
+        border-radius: 8px;
+        background: url(photo/bg2.jpg);
+    }
+
+    form {
+
+        float: left;
+        padding-left: 90px;
+        padding-top: 90px;
+    }
+
+    form div {
+        overflow: hidden;
+        clear: both;
+    }
+
+    form div label {
+        float: left;
+        clear: both;
+    }
+
+    form div label .text {
+        width: 161px;
+        height: 26px;
+        padding: 0 2px;
+        border: 1px solid #ccc;
+        margin-top: 5px;
+    }
+
+    form div label b {
+        font-weight: normal;
+        font-size: 12px;
+        color: #ccc;
+        visibility: hidden;
+    }
+
+    form div .active {
+        background-color: #FF6600;
+    }
+
+    div span {
+        display: inline-block;
+        width: 80px;
+        text-align: right;
+    }
+
+    .submitBtn {
+        width: 135px;
+        height: 33px;
+        background-color: #F95712;
+        color: #fff;
+        margin: 20px 0 0 80px;
+    }
+
+    .msg {
+        line-height: 12px;
+        color: #999;
+        float: left;
+        margin-left: 5px;
+        margin-top: 10px;
+        display: none;
+    }
+
+    .msg i {
+        display: inline-block;
+        vertical-align: middle;
+        width: 25px;
+        height: 20px;
+    

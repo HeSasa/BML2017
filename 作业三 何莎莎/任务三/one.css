@@ -1,0 +1,322 @@
+* {
+        padding: 0;
+        margin: 0;
+    }
+
+    body {
+        font-family: "Microsoft Yahei";
+    }
+
+    #nav {
+        height: 80px;
+    }
+
+    .logo {
+
+        height: 50px;
+        width: 150px;
+        margin-left: 13%;
+        margin-top: 15px;
+    }
+
+    .menu {
+        margin-top: -50px;
+        margin-left: 520px;
+    }
+
+    .menu ul li {
+        list-style: none;
+        font-color: #333;
+        font-size: 20px;
+        float: left;
+        line-height: 50px;
+        padding: 0 15px;
+    }
+
+    .picID {
+        display: block;
+        max-width: 100%;
+        height: auto;
+    }
+
+    #zhong {
+        height: 264px;
+    }
+
+    .zhong_p {
+        text-align: center;
+        padding-top: 40px;
+    }
+
+    .zhong_p .title {
+        height: 40px;
+        line-height: 40px;
+        font-size: 24px;
+    }
+
+    .zhong_p p {
+        display: block;
+        -webkit-margin-before: 1em;
+        -webkit-margin-after: 1em;
+        -webkit-margin-start: 0px;
+        -webkit-margin-end: 0px;
+    }
+
+    .zhong_p button {
+        height: 40px;
+        width: 120px;
+        border: 2px solid #61CA94;
+        font-size: 14px;
+    }
+
+    .btn1 {
+
+        background-color: #61CA94;
+        border-radius: 8px;
+
+        color: #FFF;
+    }
+
+    .btn1:hover {
+        background-color: #FFF;
+        color: #61CA94;
+        border-color: #61CA94;
+    }
+
+    .btn2 {
+        background-color: #FFF;
+        color: #61CA94;
+        border-radius: 8px;
+        margin-left: 60px;
+    }
+
+    .btn2:hover {
+        background-color: #61CA94;
+        color: #FFF;
+        border-color: #61CA94;
+    }
+
+    #yewutixi {
+        height: 400px;
+        background: #F1F1F1;
+    }
+
+    .title {
+        text-align: center;
+        height: 30px;
+        padding-top: 20px;
+        font-size: 24px;
+        color: #474747;
+    }
+
+    .photo {
+        width: 350px;
+        height: 280px;
+        background: #fff;
+        margin-left: 25px;
+        margin-top: 30px;
+        float: left;
+    }
+
+    .photo img {
+        width: 350px;
+        height: 230px;
+    }
+
+    #yewutixi .photo p {
+        margin-top: 5px;
+        text-align: center;
+        font-size: 20px;
+    }
+
+    #xwzx {
+        height: 700px;
+    }
+
+    .xwzx_img img {
+        height: 520px;
+        width: 400px;
+        margin-left: 250px;
+        margin-top: 50px;
+    }
+
+    .xwzx_p {
+        margin-left: 850px;
+        margin-top: -500px;
+    }
+
+    .xwzx_t {
+        font-size: 20px;
+        margin: 0 0 10px;
+    }
+
+    .xwzx_rq {
+        font-size: 18px;
+        color: #61ca94;
+        margin: 0 0 10px;
+    }
+
+    .zi {
+        font-size: 14px;
+        margin: 0 0 10px;
+        color: #999;
+    }
+
+    .btn {
+        height: 40px;
+        width: 120px;
+        border: 1px solid #4CAE4C;
+        font-size: 14px;
+        background-color: #61CA94;
+        border-radius: 8px;
+        margin-top: 30px;
+        color: #FFF;
+    }
+
+    .btn:hover {
+        background-color: #449D44;
+    }
+
+
+
+    #cpzx {
+        height: 400px;
+        background: #F1F1F1;
+    }
+
+    .cpzx_img {
+        height: 260px;
+        width: 350px;
+        background: #fff;
+        float: left;
+        margin-left: 25px;
+        margin-top: 40px;
+    }
+
+    .cpzx_img img {
+        height: 220px;
+        width: 350px;
+    }
+
+    .cpzx_img p {
+        text-align: center;
+        font-size: 18px;
+    }
+
+
+
+    #jcfa {
+        height: 550px;
+        background: #fff;
+    }
+
+    .hr {
+        width: 1000px;
+        left: 250px;
+        top: -60px;
+        position: relative;
+        border: 0.5px solid #DDD;
+    }
+
+    #jcfa ul li {
+        float: left;
+        position: relative;
+        list-style: none;
+        padding: 10px;
+        left: 300px;
+        top: -10px;
+        font-size: 14px;
+        color: #333333;
+        margin: 50px;
+    }
+
+    .jcfa_img {
+        position: relative;
+        left: 250px;
+        top: -25px;
+    }
+
+    .jcfa_img img {
+        height: 330px;
+        width: 530px;
+    }
+
+    .jcfa_p {
+        margin-left: 820px;
+        margin-top: -350px;
+    }
+
+    .p_ti {
+        font-size: 24px;
+        margin: 0 0 30px;
+        color: #333333;
+    }
+
+    .p_zi {
+        margin: 0 0 30px;
+    }
+
+    #gswh {
+        height: 650px;
+        background: #F1F1F1;
+    }
+
+    .tupian {
+        margin-top: 60px;
+        margin-left: 25px;
+    }
+
+    .tupian img {
+        height: 250px;
+        width: 370px;
+        margin-top: -10px;
+        margin-left: -5px;
+    }
+
+
+    #dibu {
+        height: 300px;
+        background: #34495E;
+    }
+
+    .dibu_1 img {
+        height: 150px;
+        width: 150px;
+    }
+
+    #dibu p {
+        color: #fff;
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    #dibu .dibu_title {
+        line-height: 70px;
+        font-size: 20px;
+    }
+
+    #dibu ul {
+        position: relative;
+        top: -25px;
+    }
+
+    #dibu ul li {
+        float: left;
+        position: relative;
+        list-style: none;
+        top: 50px;
+        left: 100px;
+        padding-left: 150px;
+    }
+
+    #ditiao {
+
+        height: 50px;
+        background-color: #2C3E50;
+    }
+
+    #ditiao p {
+        text-align: center;
+        color: #fff;
+        padding-top: 15px;
+    }
